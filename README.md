@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason López</h1>
-<h3 align="center">¡Hola! Mi nombre es Jason López, y soy un apasionado ingeniero electrónico y desarrollador web front end. Mi objetivo es crear aplicativos webs increíbles que combinen una funcionalidad excepcional con un diseño atractivo y moderno. Con experiencia en el desarrollo de aplicativos con React Js y JavaScript, me enorgullezco de mantenerme siempre actualizado con las últimas tendencias en HTML5 y CSS3 para asegurar que mis proyectos estén a la vanguardia de la tecnología web.</h3>
+<h3 align="left">Hello! My name is Jason Lopez, and I am a passionate electronics engineer and front end web developer. My goal is to create amazing web applications that combine exceptional functionality with an attractive and modern design. With experience developing applications with React Js and JavaScript, I pride myself on always staying up to date with the latest trends in HTML5 and CSS3 to ensure my projects are at the forefront of web technology.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j4ckson95" alt="j4ckson95" /></a> </p>
