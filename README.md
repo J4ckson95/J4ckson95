@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason López</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j4ckson95&label=Profile%20views&color=0e75b6&style=flat" alt="j4ckson95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j4ckson95" alt="j4ckson95" /></a> </p>
 
